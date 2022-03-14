@@ -1,0 +1,36 @@
+.navbar {
+  display: flex;
+  align-items: center;
+  background-color: black;
+  color: white;
+}
+
+.logo {
+  justify-content: flex-start;
+  color: white;
+  font-size: 60px;
+  background-color: purple;
+}
+
+.column {
+  float: left;
+}
+
+.nav {
+  display: flex;
+  list-style: none;
+  color: white;
+}
+.nav li {
+  margin: 13px;
+}
+
+.logo-image {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+}
+
+.login {
+  margin-left: 8px;
+}
